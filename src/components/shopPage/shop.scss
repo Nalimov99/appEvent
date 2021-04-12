@@ -1,0 +1,9 @@
+.shop {
+    padding: 100px 50px 50px 50px;
+    display: grid;
+    list-style: none;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    grid-row-gap: 40px;
+}
+
